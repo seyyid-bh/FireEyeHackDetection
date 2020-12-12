@@ -1,0 +1,10 @@
+C:\Users\USER\documents\visual studio 2015\Projects\FireEyeHackDetection\FireEyeHackDetection\bin\Release\FireEyeHackDetection.exe.config
+C:\Users\USER\documents\visual studio 2015\Projects\FireEyeHackDetection\FireEyeHackDetection\bin\Release\FireEyeHackDetection.exe
+C:\Users\USER\documents\visual studio 2015\Projects\FireEyeHackDetection\FireEyeHackDetection\bin\Release\FireEyeHackDetection.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\FireEyeHackDetection\FireEyeHackDetection\obj\Release\FireEyeHackDetection.Form1.resources
+C:\Users\USER\documents\visual studio 2015\Projects\FireEyeHackDetection\FireEyeHackDetection\obj\Release\FireEyeHackDetection.Properties.Resources.resources
+C:\Users\USER\documents\visual studio 2015\Projects\FireEyeHackDetection\FireEyeHackDetection\obj\Release\FireEyeHackDetection.csproj.GenerateResource.Cache
+C:\Users\USER\documents\visual studio 2015\Projects\FireEyeHackDetection\FireEyeHackDetection\obj\Release\FireEyeHackDetection.exe
+C:\Users\USER\documents\visual studio 2015\Projects\FireEyeHackDetection\FireEyeHackDetection\obj\Release\FireEyeHackDetection.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\FireEyeHackDetection\FireEyeHackDetection\obj\Release\FireEyeHackDetection.csprojResolveAssemblyReference.cache
+C:\Users\USER\documents\visual studio 2015\Projects\FireEyeHackDetection\FireEyeHackDetection\obj\Release\FireEyeHackDetection.Form2.resources
